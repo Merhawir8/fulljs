@@ -1,7 +1,7 @@
-const env = process.env;
+// const env = process.env;
 
-export const nodeEnv = env.NODE_ENV || 'development';
+// export const nodeEnv = env.NODE_ENV || 'development';
 
-export default {
-    port: env.PORT || 8080
-};
+// export default {
+//     port: env.PORT || 8080
+// };
